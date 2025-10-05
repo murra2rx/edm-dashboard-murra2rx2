@@ -1,0 +1,108 @@
+## Search Strategy Summary
+
+**Management Problem:** Remote workers struggle with work life balance 
+
+**Research Question:** Does reducing blurred work-life boundaries lead to improved work-life balance and lower burnout?
+
+**X Variable (Intervention):** boundary setting interventions 
+**Y Variable (Outcome):** Improved work-life balance and lower burnout 
+
+### X Variable Terms Tested
+
+**boundary management:**
+- Query: (TI(boundary management) OR AB(boundary management))
+- Total search results: 127
+- Sample size reviewed: 10
+- Relevant in sample: 2
+- Relevance rate: 20%
+- Estimated relevant results: 25
+
+**work-life balance :**
+- Query: (TI(work-life balance ) OR AB(work-life balance ))
+- Total search results: 9640
+- Sample size reviewed: 17
+- Relevant in sample: 3
+- Relevance rate: 18%
+- Estimated relevant results: 1701
+
+**blurred boundaries remote work:**
+- Query: (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work))
+- Total search results: 18
+- Sample size reviewed: 10
+- Relevant in sample: 5
+- Relevance rate: 50%
+- Estimated relevant results: 9
+
+### Y Variable Terms Tested
+
+**reduced burnout :**
+- Query: (TI(reduced burnout ) OR AB(reduced burnout ))
+- Total search results: 556
+- Sample size reviewed: 10
+- Relevant in sample: 1
+- Relevance rate: 10%
+- Estimated relevant results: 56
+
+**good work-life balance:**
+- Query: (TI(good work-life balance) OR AB(good work-life balance))
+- Total search results: 459
+- Sample size reviewed: 10
+- Relevant in sample: 2
+- Relevance rate: 20%
+- Estimated relevant results: 92
+
+**remote work boundaries:**
+- Query: (TI(remote work boundaries) OR AB(remote work boundaries))
+- Total search results: 212
+- Sample size reviewed: 10
+- Relevant in sample: 5
+- Relevance rate: 50%
+- Estimated relevant results: 106
+
+### Final Recommended Queries
+
+**Best X Query:**
+`((TI(boundary management) OR AB(boundary management)) OR (TI(work-life balance ) OR AB(work-life balance )) OR (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work)))`
+- Expected results: 16442
+
+**Best Y Query:**
+`((TI(reduced burnout ) OR AB(reduced burnout )) OR (TI(good work-life balance) OR AB(good work-life balance)) OR (TI(remote work boundaries) OR AB(remote work boundaries)))`
+- Expected results: 1227
+
+**Combined X AND Y:**
+`((TI(boundary management) OR AB(boundary management)) OR (TI(work-life balance ) OR AB(work-life balance )) OR (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work))) AND ((TI(reduced burnout ) OR AB(reduced burnout )) OR (TI(good work-life balance) OR AB(good work-life balance)) OR (TI(remote work boundaries) OR AB(remote work boundaries)))`
+- Expected results: 570
+
+### Database Setup & Filters
+- Access EBSCO: https://guides.lib.jmu.edu/psychandbehavior
+- IMPORTANT: Click "Searching: psychology and behavioral sciences" and select Business Source Complete
+- Database: Business Source Complete (EBSCO)
+
+### Database Filters (use EBSCO interface controls):
+- Language: English
+- Peer Reviewed: Yes
+- Date Range: 2019-2025 (adjust as needed)
+
+### Methods Search Filters (filter by research methods):
+**Filter Analysis Completed for:** Combined X AND Y
+**Base Query Results:** 570 total hits
+
+**Methods Filter Breakdown:**
+- **Meta-Analyses & Systematic Reviews:** 5 results (0.9%)
+  - Filter: TI(meta-analy*) OR AB(meta-analy*) OR TI("systematic review") OR AB("systematic review")
+- **Controlled & Longitudinal Studies:** 16 results (2.8%)
+  - Filter: TI(experiment* OR controlled OR longitudinal OR randomized OR quasi) OR AB(experiment* OR "controlled stud*" OR "controlled trial" OR "control group" OR "control variable" OR "comparison group" OR "comparative stud*" OR quasi OR longitudinal OR randomized OR randomly OR laboratory OR "before and after stud*" OR "pretest post*" OR "time series" OR "case control" OR "case cohort" OR "cohort stud*" OR "prospective stud*")
+- **General Studies:** 170 results (29.8%)
+  - Filter: AB(study OR studies)
+
+**Quality Hierarchy Recommendation:**
+1. **Focus first on Meta-analyses & Systematic Reviews** (highest quality)
+2. **Then examine Controlled & Longitudinal Studies** (high quality)
+3. **Finally review General Studies** (evaluate quality individually)
+
+### Next Steps
+1. Use final queries to identify 5 studies or effect sizes
+2. Include meta-analyses where available
+3. Apply additional filters as needed
+4. Document findings in evidence-scientific-sources.txt
+

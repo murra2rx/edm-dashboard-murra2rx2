@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide: Your EBM Dashboard
+# 🚀 Quick Start Guide: Your EBM Dashboard Project
 
 **Class:** MGT357 - Evidence-Based Management  
 **Date:** September 9, 2025  
@@ -6,211 +6,177 @@
 
 ---
 
-## ⚡ 60-Second Victory: See Your Dashboard Live!
+## 📋 Today's Goals (Next 20 Minutes)
 
-**Goal:** Get your dashboard running in under 1 minute to prove it works!
-
-### Lightning Setup:
-1. **Download** the `MGT357-EBM-Dashboard-Template.zip` file from Canvas
-2. **Save** it to your Desktop 
-3. **Unzip the file** (double-click the .zip file) - you'll see the `MGT357-EBM-Dashboard-Template` folder
-4. **Open VS Code** → File → Open Folder → Select your unzipped folder
-5. **Right-click** `index.html` → "Open with Live Server" (or double-click)
-6. **🎉 SUCCESS!** Your professional dashboard is now running!
-
-**Click through the tabs!** You'll see the complete Evidence-Based Management framework that will guide your entire semester project.
+✅ **Download your template package**  
+✅ **Set up your GitHub repository**  
+✅ **See your dashboard running locally**  
+✅ **Make your first edit**  
+✅ **Commit your changes**  
 
 ---
 
-## 🎯 What You Just Built: Your Professional EBM Dashboard
+## 🎯 What You're Building
 
-Congratulations! You're now looking at a **professional Evidence-Based Management dashboard** that will:
-
-### 💼 Your Career Advantage
-- **Portfolio piece** you can show employers and discuss in interviews
-- **Professional project** demonstrating modern management skills
-- **AI collaboration experience** with GitHub Copilot & Claude
-- **Evidence-based thinking** that makes you a better manager
-
-### 📊 Your Semester Toolkit
-This dashboard guides you through the complete EBM process:
-- **🎯 Framework Tab:** Problem definition and solution design
-- **🔍 Evidence Tab:** Systematic evidence collection from all 4 sources
-- **⚖️ Synthesis Tab:** Critical evaluation and integration
-- **🚀 Application Tab:** Solution implementation planning
-- **📊 Assessment Tab:** Results evaluation and learning
-
-### 📁 Your Template Package Includes
-- **`index.html`** - Your interactive dashboard (what you just opened!)
-- **18 content files** - Templates for every step of the EBM process
-- **Complete guides** - GitHub, AI collaboration, and troubleshooting help
-- **Progress tracker** - Keep track of your semester journey
+You're creating a **professional Evidence-Based Management dashboard** that will:
+- 📊 Guide you through real EBM process with a real management problem
+- 💼 Become a portfolio piece for job interviews and career advancement
+- 🤖 Teach you to collaborate effectively with AI tools (GitHub Copilot & Claude)
+- 📈 Document your evidence collection and analysis throughout the semester
+- 🏆 Demonstrate your mastery of evidence-based decision making
 
 ---
 
-## 🛠️ Complete Your Professional Setup (15 minutes)
+## 📁 Your Template Package Includes
 
-Now that you've seen your dashboard working, let's make it officially yours and get it online!
+### 🏠 Main Files
+- `index.html` - Your interactive dashboard (open in browser)
+- `README.md` - Complete project overview and instructions
+- `PROJECT_TRACKER.md` - Your personal progress tracker
 
-### Step 1: Personalize Your Dashboard (2 minutes)
-1. **In VS Code**, open `index.html`
-2. **Find the header section** (around line 349)
-3. **Replace `[Your Name Here]`** with your actual name
-4. **Replace `[Your Management Problem]`** with a problem you want to explore this semester
-5. **Save** the file (Ctrl+S or Cmd+S) and refresh your browser
+### 📚 Essential Guides
+- `AI_COLLABORATION_GUIDE.md` - How to work with GitHub Copilot & Claude
+- `GITHUB_GUIDE.md` - GitHub for absolute beginners
+- `TROUBLESHOOTING.md` - Fix common problems quickly
 
-### Step 2: Publish to GitHub (10 minutes)
+### 📝 Content Templates (18 files!)
+All the `.txt` files you'll edit throughout the semester:
+- **ASK Phase:** Problem definition, stakeholder analysis, success criteria
+- **Evidence Collection:** Methods, sources, and appraisals for all 4 evidence types
+- **Application:** Evidence synthesis, solution design, implementation planning
+- **Assessment:** Results evaluation and lessons learned
 
-**Why GitHub?** Your dashboard needs to be online for the content to load properly (due to browser security). Plus, employers love seeing GitHub portfolios!
+---
 
-1. **Create GitHub account** at [github.com](https://github.com) (if you don't have one)
-2. **Click "New" repository** (green button)
-3. **Repository name:** `ebm-dashboard-[your-eID]` (example: `ebm-dashboard-smith21`)
-4. **Make it Public** (required for GitHub Pages)
-5. **Check "Add a README file"**
-6. **Click "Create repository"**
+## ⚡ 5-Minute Setup Process
 
-7. **Upload your files:**
-   - Click "uploading an existing file" link
-   - **Drag your entire MGT357-EBM-Dashboard-Template folder** into the upload area
-   - **Important:** Select ALL files inside the folder, including the `content/` folder files
-   - Click "Open" - you should see 25+ files listed for upload
+### Step 1: Get Your Files (30 seconds)
+1. Download the `MGT357-EBM-Dashboard-Template` folder from Canvas
+2. Save it to your computer (Desktop or Documents)
+3. Rename the folder to: `ebm-dashboard-[your-eID]`
+
+### Step 2: Open in VS Code (30 seconds)
+1. Open VS Code
+2. File → Open Folder
+3. Select your `ebm-dashboard-[your-eID]` folder
+4. You should see all files in the left sidebar
+
+### Step 3: See Your Dashboard (1 minute)
+1. Right-click on `index.html` in VS Code
+2. Choose "Open with Live Server" (or just double-click to open in browser)
+3. Your dashboard should open in your web browser
+4. Click through the tabs to explore!
+
+### Step 4: Make Your First Edit (2 minutes)
+1. In VS Code, open `index.html`
+2. Find the header section (around line 349) 
+3. Replace `[Your Name Here]` with your actual name
+4. Replace `[Your Management Problem]` with a problem you want to explore
+5. Save the file (Ctrl+S or Cmd+S)
+6. Refresh your browser to see changes
+
+### Step 5: GitHub Setup & Upload (3 minutes)
+1. Go to github.com and sign in (create account if needed)
+2. Click "New" repository (green button)
+3. Name it: `ebm-dashboard-[your-eID]`
+4. Make it **Public** (required for GitHub Pages)
+5. **DON'T** check "Add a README file"
+6. Click "Create repository"
+7. **Upload your files using the web interface:**
+   - Click "uploading an existing file"
+   - Drag your entire project folder OR select all files
    - Add commit message: "Initial dashboard setup"
    - Click "Commit changes"
-
-12. **Verify success:** All your files should now be visible in your repository!
-
-13. **Go to Settings tab** in your repository (top menu bar)
-14. **Scroll down to "Pages" section** (in the left sidebar under "Code and automation")
-15. **Source:** Select "Deploy from a branch"
-16. **Branch:** Select "main"
-17. **Folder:** Select "/ (root)"
-18. **Click "Save"**
-19. **Wait 2-3 minutes** for deployment
-20. **Visit your live dashboard:** 
-    `https://[your-eID].github.io/ebm-dashboard-[your-eID]`
+8. **Enable GitHub Pages:**
+   - Go to Settings tab
+   - Scroll to "Pages" section
+   - Source: "Deploy from a branch"
+   - Branch: "main"
+   - Click "Save"
+   - Wait 2-3 minutes, then visit your live dashboard!
 
 ---
 
-### Common Issues & Quick Fixes:
-- **"Live Server" missing?** Install the Live Server extension in VS Code
-- **Dashboard shows placeholders locally?** That's normal! Content loads properly on GitHub Pages
-- **If repository doesn't show your files:** Refresh the page and check the file list
-- **If Pages section is missing:** Ensure repository is Public, not Private
-- **If upload fails:** Try uploading files in smaller batches
+## 🎯 Your First Assignment (Due Next Week)
 
-### Step 3: Organize Your Project (2 minutes)
-1. **Create a dedicated folder** on your computer: `MGT357-EBM-Project`
-2. **Move your template folder** into this new folder
-3. **Create a bookmark** to your live dashboard
-4. **Bookmark this GitHub repository** - you'll be updating files here all semester
+### Complete the ASK Phase
+1. **Problem Definition** - Use the frameworks in `ask-problem-definition.txt`
+2. **Stakeholder Analysis** - Complete `ask-stakeholder-analysis.txt`
+3. **Success Criteria** - Define success in `ask-success-criteria.txt`
+4. **Update PROJECT_TRACKER.md** - Mark your progress
 
-### Step 4: Success Verification (2 minutes)
+### GitHub Repository
+1. Create GitHub repository (see Step 5 above)
+2. Upload all your template files using web interface
+3. Enable GitHub Pages (Settings → Pages → Main branch)
+4. Submit your **live dashboard URL** on Canvas (https://[username].github.io/[repo-name])
 
-**✅ Checklist for Complete Success:**
-
-✅ **Your repository shows all files** (index.html, content folder, README.md, etc.)  
-✅ **Your live dashboard loads** at `https://[your-eID].github.io/ebm-dashboard-[your-eID]`  
-✅ **You can edit locally** (VS Code + Live Server working)  
-✅ **Your name appears** in the dashboard header  
-
-**🎉 VICTORY!** You now have a professional online dashboard!
-
-**📱 Save this URL!** Bookmark your live dashboard - you'll use it all semester and it's what you'll submit for assignments.
+### AI Collaboration Practice
+1. Use GitHub Copilot to help with writing (press Ctrl+I or Cmd+I)
+2. Try Claude Sonnet 4 for strategic thinking about your problem
+3. Always end major requests with: *"Before you respond, ask me several questions that will enhance the quality of your response."*
 
 ---
 
-## 📋 Your First Week: Start Building Real Content
+## 🆘 Need Help?
 
-Now you have a professional dashboard online! Time to start your Evidence-Based Management journey.
+### 🏢 Office Hours
+Professor Peterson - [Check Canvas for current schedule]
 
-### This Week's Mission: Complete the ASK Phase
-**Goal:** Define your management problem and set success criteria.
-**⏰ DUE:** Before class on Tuesday, September 16th
+### 🤖 AI Assistants  
+- **GitHub Copilot Pro** (in VS Code) - Writing & technical help
+- **Claude Sonnet 4** (claude.ai) - Strategic analysis & problem-solving
 
-### Assignment Checklist:
-1. **📝 Problem Definition**
-   - Open `content/ask-problem-definition.txt` in VS Code
-   - Use the X → Y Framework and PICOC Framework 
-   - Define a real management problem you want to solve
+### 📖 Documentation
+- Read `GITHUB_GUIDE.md` for GitHub help
+- Read `AI_COLLABORATION_GUIDE.md` for AI tips  
+- Read `TROUBLESHOOTING.md` for common fixes
 
-2. **👥 Stakeholder Analysis**
-   - Complete `content/ask-stakeholder-analysis.txt`
-   - Identify everyone affected by your problem and solution
-   - Consider internal and external stakeholders
-
-3. **🎯 Success Criteria**
-   - Define specific, measurable success criteria in `content/ask-success-criteria.txt`
-   - How will you know if your evidence-based solution worked?
-
-4. **📊 Progress Tracking**
-   - Update `PROJECT_TRACKER.md` with your progress
-   - Check off completed milestones
-
-### AI Collaboration Power-Up:
-- **GitHub Copilot** (in VS Code): Press Ctrl+I or Cmd+I for writing help
-- **Claude Sonnet 4** (claude.ai): For strategic thinking about your problem
-- **Pro tip:** Always end major AI requests with: *"Before you respond, ask me several questions that will enhance the quality of your response."*
-
-### Submission Requirements:
-✅ **Complete all 3 ASK phase content files**  
-✅ **Update your progress tracker**  
-✅ **Submit your live dashboard URL** on Canvas: `https://[your-eID].github.io/ebm-dashboard-[your-eID]`
+### 🧑‍🤝‍🧑 Classmates
+You work individually, but help each other learn!
 
 ---
 
-## 🎯 Your Success Timeline: This Semester's Journey
+## 🏆 Why This Matters
 
-### Week 1-3: ASK Phase (Problem Definition)
-- ✅ Set up professional dashboard
-- 📝 Define management problem
-- 👥 Analyze stakeholders
-- 🎯 Establish success criteria
+This isn't just a class project. You're building:
 
-### Week 4-6: ACQUIRE Phase (Evidence Collection)
-- 🏢 Organizational evidence
-- 👨‍💼 Practitioner interviews
-- 📚 Scientific literature review
-- 🗣️ Stakeholder surveys
+✨ **Portfolio-worthy work** that shows employers your modern skills  
+🧠 **Evidence-based thinking** that will make you a better manager  
+🤖 **AI collaboration skills** that are essential for your career  
+💼 **Professional experience** applying management theory to real problems  
+🎯 **Practical competency** in systematic decision-making  
 
-### Week 7-9: APPRAISE Phase (Critical Evaluation)
-- ⚖️ Evidence quality assessment
-- 🔍 Bias identification
-- 📊 Reliability analysis
-- 🎯 Relevance evaluation
-
-### Week 10-12: AGGREGATE Phase (Evidence Synthesis)
-- 🔄 Evidence integration
-- ⚖️ Weighing conflicting findings
-- 📈 Pattern identification
-- 💡 Insight synthesis
-
-### Week 13-15: APPLY Phase (Implementation Design)
-- 🚀 Solution design
-- 📋 Implementation planning
-- 🎯 Success metrics
-- 📊 Monitoring systems
-
-### Week 16: ASSESS Phase (Evaluation Planning)
-- 📊 Results evaluation framework
-- 🔄 Continuous improvement
-- 📈 Impact assessment
-- 🎓 Professional reflection
+**You'll graduate with demonstrable evidence-based management skills and a professional project you can discuss in job interviews!**
 
 ---
 
-## 🎯 What You've Accomplished Right Now
+## 📅 This Semester's Journey
 
-**You've just accomplished something amazing:** You have a professional Evidence-Based Management dashboard running online!
+### 🎯 **Now:** Framework & Problem Definition
+### 🔬 **Weeks 3-6:** Scientific & Practitioner Evidence  
+### 🏢 **Weeks 7-9:** Organizational & Stakeholder Evidence
+### ⚖️ **Weeks 10-12:** Evidence Synthesis & Solution Design
+### 🚀 **Weeks 13-16:** Implementation Planning & Portfolio Polish
 
-### Right Now (Next 5 Minutes):
-✅ **Bookmark your live dashboard** - You'll be using it all semester  
-✅ **Test that you can edit content files** - Open one .txt file and make a small change  
-✅ **Join the AI revolution** - Try asking GitHub Copilot a question in VS Code
+**Every week builds on the previous work. By semester end, you'll have a complete evidence-based management process documented in your professional dashboard!**
 
-### This Week (Due Next Monday):
-✅ **Complete the ASK Phase** - Problem definition, stakeholder analysis, success criteria  
-✅ **Show employers your GitHub** - Add the repository link to your LinkedIn profile  
-✅ **Start thinking like a manager** - You're now using the same frameworks as Fortune 500 executives!
+---
 
-**Welcome to Evidence-Based Management!** 🚀
+## ✅ Success Checklist for Today
+
+- [ ] Downloaded template package
+- [ ] Opened project in VS Code  
+- [ ] Viewed dashboard in web browser
+- [ ] Made first edit to index.html (name and problem)
+- [ ] Created GitHub repository
+- [ ] Uploaded files to GitHub
+- [ ] Enabled GitHub Pages 
+- [ ] Dashboard accessible online via GitHub Pages
+- [ ] Submitted **live dashboard URL** on Canvas
+
+**🎉 Congratulations! You've officially started your Evidence-Based Management dashboard project!**
+
+---
+
+**Questions? Ask now or come to office hours. Let's make this an amazing learning experience!** 🚀

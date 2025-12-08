@@ -1,0 +1,394 @@
+# Scientific Evidence: Quality Appraisal
+# Critically evaluate the trustworthiness and relevance of your research evidence
+
+## Overall Evidence Quality Rating
+**Rating:** High
+**Confidence Level:** High confidence - Three independent studies using different methods (systematic review, qualitative study, conceptual framework) all converge on the same findings about the problem and solution.
+
+## Individual Study Quality Assessment
+
+### Study 1: Bravo-Duarte et al. (2025) - Systematic Review of Leadership Competencies for Telework
+#### Methodological Quality
+- **Study Design Appropriateness:** Excellent
+  - *Justification:* Systematic review is the gold standard for synthesizing research evidence. Appropriately used to aggregate findings from 37 empirical studies on remote leadership, providing high-level evidence.
+- **Sample Size Adequacy:** Excellent
+  - *Justification:* Reviewed 37 studies (22 quantitative, 15 qualitative) covering 24 years of research (2000-2024). Large evidence base provides robust conclusions.
+- **Measurement Validity:** Good
+  - *Justification:* Synthesized multiple validated measures across studies. Some heterogeneity in how competencies were measured across original studies, but themes were consistent.
+- **Statistical Analysis:** Good
+  - *Justification:* Reported effect sizes (β = .32, p < .05) from multiple studies. No meta-analysis conducted, so unable to calculate pooled effects, but significance patterns were clear.
+
+#### Risk of Bias Assessment
+- **Selection Bias:** Low risk
+  - Systematic search across multiple databases reduces publication bias. Included both quantitative and qualitative studies.
+- **Information Bias:** Low risk
+  - Used established competency frameworks and validated leadership measures from original studies.
+- **Confounding:** Well controlled
+  - By reviewing multiple studies across different contexts, confounding factors are distributed across samples.
+- **Reporting Bias:** Low risk
+  - Published in peer-reviewed journal (Frontiers in Organizational Psychology). Transparent reporting of search strategy and inclusion criteria.
+
+#### External Validity
+- **Population Generalizability:** High
+  - *Reasoning:* Studies included remote workers, hybrid workers, and virtual teams across various industries globally (US, Europe, Asia, Canada). Highly generalizable to your remote/hybrid employee population.
+- **Setting Generalizability:** High
+  - *Reasoning:* Multiple countries and industries represented (14 US studies, 6 North Europe, 4 Asia, cross-national studies). Findings applicable across organizational contexts including yours.
+- **Time Relevance:** High
+  - *Reasoning:* Published 2025, most recent studies from last 5 years. Captures post-pandemic remote work realities. Highly relevant to current hybrid work environment.
+
+---
+
+### Study 2: Mabaso & Manuel (2024) - Performance Management in Remote/Hybrid Banking
+#### Methodological Quality
+- **Study Design Appropriateness:** Good
+  - *Justification:* Phenomenological qualitative design is appropriate for exploring lived experiences of performance management in new hybrid context. Semi-structured interviews allow rich, detailed insights.
+- **Sample Size Adequacy:** Good
+  - *Justification:* 18 participants (8 managers, 10 employees) provides adequate saturation for qualitative research. Purposive sampling ensured information-rich cases. Typical for phenomenological studies.
+- **Measurement Validity:** Good
+  - *Justification:* Used semi-structured interviews with open and closed-ended questions. Member checks conducted for credibility. Thematic analysis followed established procedures (Merriam & Tisdell, 2016).
+- **Statistical Analysis:** N/A (Qualitative Study)
+  - *Justification:* Used appropriate qualitative analysis (thematic analysis) instead of statistics. Identified 6 themes and sub-themes with supporting quotes. Rigorous coding procedures documented.
+
+#### Risk of Bias Assessment
+- **Selection Bias:** Medium risk
+  - Purposive sampling from single bank in South Africa. Participants were accessible/available rather than random. May overrepresent certain perspectives.
+- **Information Bias:** Low risk
+  - Semi-structured interviews allowed participants to share experiences in own words. Interviews recorded and transcribed for accuracy. Anonymity provided (pseudonyms used).
+- **Confounding:** Partially controlled
+  - Banking industry and South African context may have unique characteristics. No comparison group. Post-pandemic timing means experiences may reflect transition period rather than steady state.
+- **Reporting Bias:** Low risk
+  - Published in peer-reviewed SA Journal of Industrial Psychology. Ethics approval obtained (IPPM-2022-695). Transparent reporting of methods and limitations.
+
+#### External Validity
+- **Population Generalizability:** Medium
+  - *Reasoning:* Banking sector knowledge workers similar to your population, but South African context and single organization limit generalizability. Manager experience (5-27 years) and employee experience (3-12 years) reasonably representative.
+- **Setting Generalizability:** Medium
+  - *Reasoning:* One of five largest banks in South Africa - hierarchical, compliance-focused culture may differ from your organization. Banking sector norms around performance management may not fully transfer to other industries.
+- **Time Relevance:** High
+  - *Reasoning:* Data collected 2022, published 2024. Captures immediate post-pandemic hybrid work experiences. Very current and relevant to your 6-12 month performance cycle timeline.
+
+---
+
+### Study 3: Aguinis & Burgi-Tian (2021) - Performance Promoter Score Framework
+#### Methodological Quality
+- **Study Design Appropriateness:** Good
+  - *Justification:* Conceptual framework built on extensive literature review and proven Net Promoter Score methodology. Appropriate for introducing practical tool and providing evidence-based recommendations. Not empirical test of the framework.
+- **Sample Size Adequacy:** Fair
+  - *Justification:* Provides illustrative example (19 direct reports rating manager) but not full empirical validation. Built on established NPS research (Reichheld 2003, cited extensively). Would benefit from large-scale implementation studies.
+- **Measurement Validity:** Good
+  - *Justification:* Performance Promoter Score adapted from validated Net Promoter Score with proven reliability and validity across industries (Marsden et al., 2005; Pollack & Alexandrov, 2013). Face validity is strong - simple, clear questions.
+- **Statistical Analysis:** Fair
+  - *Justification:* Cites multiple studies showing NPS correlation with firm growth and profitability (p-values, effect sizes from prior research). Example calculations provided but not new statistical analysis conducted.
+
+#### Risk of Bias Assessment
+- **Selection Bias:** N/A (Conceptual Framework)
+  - Not empirical study with participant selection. Framework designed for universal application across organizations.
+- **Information Bias:** Low risk
+  - Built on extensive literature synthesis and validated measurement approach. Transparent about being adapted from marketing NPS.
+- **Confounding:** N/A (Conceptual Framework)
+  - Recommends multiple data sources (360-degree) to control for bias. Provides strategies to minimize gaming (begging, nudging, exchanging).
+- **Reporting Bias:** Low risk
+  - Published in Business Horizons (top management journal, Elsevier). Cited 174 times indicating peer acceptance. Transparent about limitations and implementation challenges.
+
+#### External Validity
+- **Population Generalizability:** High
+  - *Reasoning:* Framework designed for employees, managers at all levels, workgroups, and entire organizations across industries. Explicitly intended for broad application including your context.
+- **Setting Generalizability:** High
+  - *Reasoning:* Specifically developed for COVID-19 crisis and remote work challenges. Applicable across organizational types and sizes. Addresses exact context (62% remote workforce) similar to your hybrid environment.
+- **Time Relevance:** High
+  - *Reasoning:* Published 2021 during pandemic peak, addresses ongoing remote/hybrid work realities. Authors explicitly state framework useful "long after pandemic is over." Highly relevant to current performance management challenges.
+
+## Publication Quality Assessment
+
+### Journal Quality
+All three studies published in legitimate, peer-reviewed academic journals with no predatory publishing concerns.
+
+#### High-Quality Journals
+- **Business Horizons** (Aguinis & Burgi-Tian, 2021): Top-tier management journal published by Elsevier. Known for practitioner-oriented research with academic rigor. Study cited 174 times in 4 years - strong impact.
+
+#### Medium-Quality Journals
+- **Frontiers in Organizational Psychology** (Bravo-Duarte et al., 2025): Open-access journal with peer review. Part of Frontiers series with transparent review process. Recent publication so citation count still building.
+- **SA Journal of Industrial Psychology** (Mabaso & Manuel, 2024): Established African psychology journal (ISSN 2071-0763). Reputable regional journal with rigorous peer review. Less international visibility than top-tier journals but solid methodology.
+
+#### Lower-Quality or Predatory Journals
+None. All three journals have legitimate editorial boards, clear peer review processes, and established reputations in their fields.
+
+### Peer Review Process
+- **Clear Peer Review:** All three studies show evidence of rigorous peer review. Mabaso & Manuel explicitly states ethics approval (IPPM-2022-695). Aguinis & Burgi-Tian shows theoretical sophistication expected in Business Horizons. Bravo-Duarte systematic review methodology meets PRISMA standards.
+- **Editorial Standards:** High standards evident in all publications. Clear methodology sections, proper citations, structured reporting. Mabaso & Manuel includes detailed appendix on data quality strategies (credibility, dependability, confirmability).
+- **Impact Factor/Citations:** Business Horizons has strong impact factor in management field. Aguinis paper's 174 citations in 4 years indicates high influence. Bravo-Duarte too recent for citations. Mabaso & Manuel cited 15 times - reasonable for 2024 regional publication.
+
+## Systematic Biases and Limitations
+
+### Publication Bias
+**Moderate risk** - Studies showing successful interventions are more likely to be published than null results. All three studies support standardization as solution, with no studies showing standardization failures. Bravo-Duarte's systematic review partially addresses this by including 37 studies (not all showed positive results for every competency). However, file drawer problem may exist where unsuccessful performance management interventions go unreported.
+
+### Geographic Bias
+**Low to Moderate risk** - Evidence spans multiple geographies:
+- Bravo-Duarte: 14 US studies, 6 North Europe, 4 Asia, 3 Canada, 2 Southern Europe, plus cross-national studies. Good geographic diversity.
+- Mabaso & Manuel: South Africa only. Single country limits generalizability but provides non-Western perspective often missing in management research.
+- Aguinis & Burgi-Tian: Global framework designed for broad application, though authors are US-based.
+
+**Overall**: Primarily Western/developed country bias. Limited evidence from Latin America, Africa (except Mabaso & Manuel), Middle East. Your context should consider whether findings transfer to your specific geographic/cultural setting.
+
+### Industry Bias
+**Low risk** - No evidence of industry funding conflicts:
+- Bravo-Duarte: Academic research across multiple industries. No disclosed conflicts of interest.
+- Mabaso & Manuel: University-based research, no funding from banking sector disclosed. States "no financial or personal relationships" influencing work.
+- Aguinis & Burgi-Tian: Academic authors, no commercial interests disclosed. Framework intentionally industry-agnostic.
+
+**Sectoral limitation**: Banking sector (Mabaso & Manuel) may have unique compliance/hierarchical culture affecting findings. Bravo-Duarte's cross-industry review mitigates this concern.
+
+### Temporal Bias
+**Moderate risk** - Findings are time-sensitive to COVID-19/post-pandemic context:
+- All three studies address pandemic-era challenges (2020-2025 period).
+- May reflect transitional period rather than long-term steady state of remote work.
+- Benefits: Captures current reality of hybrid work; Risks: Solutions may be crisis-specific rather than enduring practices.
+- As remote/hybrid work normalizes (2025+), some findings about communication needs may change.
+
+**Relevance to your context**: High temporal relevance since you're implementing in 2025 during ongoing hybrid work transition.
+
+## Evidence Strength Assessment
+
+### Quantity of Evidence
+- **Number of Studies:** Sufficient evidence
+  - Three independent studies using different methodologies provides triangulation. Bravo-Duarte systematic review represents 37 additional studies, giving robust evidence base of 40 total studies supporting conclusions.
+- **Total Sample Size:** Adequate for conclusions
+  - Bravo-Duarte: 37 studies with varied samples across 24 years
+  - Mabaso & Manuel: 18 participants (adequate for qualitative saturation)
+  - Aguinis & Burgi-Tian: Conceptual framework with example data
+  - Combined evidence base provides strong foundation for decision-making
+- **Study Duration:** Long enough to detect effects
+  - Bravo-Duarte: Covers 2000-2024 (24 years), with 15 studies from last 5 years showing sustained patterns
+  - Mabaso & Manuel: Post-pandemic snapshot captures 1-2 years of hybrid work adaptation
+  - Limitation: No long-term (3+ year) longitudinal studies tracking sustained implementation
+
+### Quality of Evidence
+- **Overall Methodological Rigor:** High
+  - Bravo-Duarte: Excellent (systematic review gold standard)
+  - Mabaso & Manuel: Good (rigorous qualitative methods, ethics approval, member checks)
+  - Aguinis & Burgi-Tian: Good (evidence-based framework, extensive literature synthesis)
+  - All studies follow established research protocols and transparent reporting
+- **Consistency Across Studies:** High consistency
+  - All three studies independently converge on same problem (inconsistent guidance causes clarity deficits)
+  - All three studies independently converge on same solution (standardization improves outcomes)
+  - Only minor differences in emphasis (face-to-face vs. virtual, simple vs. complex tools)
+  - Remarkable agreement across different methods and contexts
+- **Effect Size Magnitude:** Medium to Large effects
+  - Bravo-Duarte: β = .32 (p < .01) for empowering leadership on performance - medium to large effect
+  - Bravo-Duarte: Multiple studies showing p < .05 significance for structured competencies
+  - Mabaso & Manuel: Qualitative evidence of substantial impact (misalignment → alignment)
+  - Your success criteria (20% clarity increase, 25% consistency improvement) are realistic based on reported effects
+
+### Relevance to Your Context
+- **Population Match:** High match
+  - All studies focus on remote/hybrid knowledge workers and their managers
+  - Bravo-Duarte: Multiple industries including yours
+  - Mabaso & Manuel: Banking sector employees (3-12 years experience) and managers (5-27 years) similar to your population
+  - All studies address same issue: inconsistent performance guidance in virtual settings
+- **Intervention Similarity:** High similarity
+  - Your proposed solution (standardized training + structured feedback) directly aligns with interventions described
+  - Bravo-Duarte: 5 competencies to train (communication, goals, support, trust, empowerment)
+  - Mabaso & Manuel: Regular check-ins (daily buzz sessions, weekly teams, monthly one-on-ones)
+  - Aguinis & Burgi-Tian: Standardized Performance Promoter Score tool
+  - All three recommend what you're planning to implement
+- **Outcome Relevance:** High relevance
+  - Studies measure employee clarity, feedback consistency, performance alignment - exactly your success criteria
+  - Bravo-Duarte: Task performance, role clarity, team performance
+  - Mabaso & Manuel: Alignment, clarity on expectations, performance improvement
+  - Aguinis & Burgi-Tian: Communication of strategic direction, meaningful feedback, psychological safety
+  - Direct match to your 20% clarity increase and 25% consistency improvement targets
+
+## Confidence in Evidence
+
+### For Problem Definition
+- **Evidence Strength:** Strong
+- **Confidence Level:** High confidence
+  - Three independent studies using different methods all confirm the problem
+  - Bravo-Duarte synthesizes 37 studies documenting virtual distance challenges
+  - Both quantitative (significant p-values) and qualitative (rich descriptions) evidence support problem existence
+  - Consistent findings across multiple countries, industries, and time periods (2000-2024)
+- **Key Limitations:** 
+  - Most evidence from pandemic/post-pandemic period (2020-2025) - may overstate problem if organizations still adapting
+  - Limited evidence from your specific industry/geography - generalization assumes similar context
+  - Studies focus on knowledge workers - may not apply if your population differs significantly
+  - No baseline measures from your organization - problem severity in your context unknown
+
+### For Solution Effectiveness
+- **Evidence Strength:** Strong
+- **Confidence Level:** High confidence
+  - All three studies independently converge on standardization as primary solution
+  - Multiple studies show significant effects (p < .05, β = .32) of structured practices on performance
+  - Evidence includes both quantitative outcomes and qualitative process descriptions
+  - Solutions tested across diverse contexts strengthen external validity
+- **Key Limitations:**
+  - No randomized controlled trials - mostly observational or quasi-experimental designs
+  - Limited evidence on implementation timeline - unknown how long results take to appear
+  - No cost-benefit analyses - ROI unclear
+  - Gap between recommending standardization and measuring sustained implementation (3+ years)
+  - Most studies compare "some structure" vs. "no structure" - unclear if your level of standardization is optimal
+  - Publication bias may mean unsuccessful implementations go unreported
+  - Your organization's readiness/culture not assessed - solution effectiveness may depend on implementation quality
+
+## Research Gaps and Future Needs
+
+### Critical Evidence Gaps
+1. **Implementation timeline unclear**: No studies specify how long training takes or what sequence produces best results (weeks? months? phased vs. simultaneous launch?)
+
+2. **No cost-benefit quantification**: While all studies show standardization works, none provide ROI calculations or cost analyses for budget planning
+
+3. **Sustainability unknown**: No long-term (3+ year) studies tracking whether standardized practices sustain or decay over time
+
+4. **Individual differences unaddressed**: No evidence on which manager characteristics (experience, personality, tech skills) predict training success
+
+5. **Optimal dose unclear**: Evidence shows "more structure is better than less" but doesn't specify optimal check-in frequency, training hours, or level of standardization
+
+6. **Employee resistance not explored**: Studies focus on manager behavior but don't examine when structure feels helpful vs. oppressive to employees
+
+7. **Comparison of approaches missing**: No head-to-head comparisons of simple vs. comprehensive tools, or different training modalities
+
+8. **Hybrid vs. fully remote distinction unclear**: Studies combine these contexts - unknown if solutions differ for 100% remote vs. mixed teams
+
+### Context-Specific Research Needs
+1. **Your industry/geography validation**: Evidence primarily from Western contexts, banking, and diverse industries - need confirmation findings apply to your specific organizational culture and industry
+
+2. **Baseline assessment needed**: No measures of current performance management quality in your organization - need to quantify current inconsistency to set realistic targets
+
+3. **Manager readiness assessment**: No evaluation of your managers' current competencies, openness to training, or barriers to implementation
+
+4. **Technology infrastructure evaluation**: Studies mention "Microsoft Teams" and digital tools but your specific platforms and tech capabilities not assessed
+
+5. **Organizational change readiness**: No assessment of your organization's capacity for change, competing priorities, or leadership support
+
+6. **Employee feedback on proposed changes**: Unknown how your employees will respond to increased check-in frequency or new feedback systems
+
+7. **Resource availability**: No data on training budget, HR capacity to support rollout, or manager time availability for increased feedback
+
+8. **Success metric validation**: Your proposed metrics (20% clarity increase, 25% consistency improvement) not empirically validated as achievable in your timeframe
+
+### Methodological Improvements Needed
+1. **Randomized controlled trials**: Current evidence mostly observational - need experimental designs with random assignment to standardization vs. control groups
+
+2. **Longitudinal tracking**: Need 3-5 year studies tracking sustained implementation and long-term outcomes, not just post-intervention snapshots
+
+3. **Cost-effectiveness studies**: Future research should include budget analyses, time-to-impact, and ROI calculations for resource planning
+
+4. **Implementation science focus**: Studies should document implementation processes, not just outcomes - what training methods work? What support structures help?
+
+5. **Moderator analyses**: Research should examine when/for whom standardization works best - industry differences, organizational size, manager experience levels
+
+6. **Employee voice included**: Future studies need employee perspectives on implementation, not just manager reports or researcher observations
+
+7. **Comparative effectiveness research**: Head-to-head comparisons of different standardization approaches (simple vs. complex, digital vs. hybrid, etc.)
+
+8. **Cultural validity testing**: Research in non-Western contexts needed to assess whether solutions transfer across cultures
+
+## Implications for Decision Making
+
+### How to Weight Scientific Evidence
+**Scientific evidence should be heavily weighted (60-70% of decision) but not the sole factor.**
+
+**Rationale for heavy weight:**
+- High-quality evidence from multiple independent studies
+- Strong consistency across different methods (systematic review, qualitative, conceptual framework)
+- Clear convergence on both problem and solution
+- Directly relevant to your context (remote/hybrid performance management)
+- Significant effects demonstrated (p < .05, β = .32)
+
+**Rationale for not 100% reliance:**
+- Evidence gaps exist (implementation timeline, costs, your specific context)
+- No studies conducted in your specific organization
+- Your organizational culture, readiness, and resources not assessed
+- Employee and stakeholder input needed to complement scientific evidence
+- Practitioner experience and organizational evidence should inform implementation details
+
+**Complementary evidence needed:**
+- Organizational evidence: Current performance management data, employee survey results, manager feedback
+- Stakeholder evidence: Input from employees, managers, HR, leadership on feasibility and preferences
+- Experiential evidence: HR professionals' insights on what's worked/failed in your organization before
+
+### Evidence-Based Recommendations
+
+**What research CLEARLY SUPPORTS:**
+1. ✅ **Implement standardized performance management practices** - all three studies converge on this solution
+2. ✅ **Train managers in specific competencies** - 5 competencies identified (communication, goals, support, trust, empowerment)
+3. ✅ **Increase feedback frequency** - daily/weekly check-ins + monthly one-on-ones improve outcomes
+4. ✅ **Use simple, standardized tools** - Performance Promoter Score or similar framework for consistency
+5. ✅ **Set clear performance expectations** - explicit goals reduce ambiguity in virtual settings
+6. ✅ **Build trust, not surveillance** - trust-building competency outperforms monitoring technology
+7. ✅ **Combine multiple communication channels** - one-on-ones + team sessions + quick check-ins
+8. ✅ **Document performance for legal protection** - missing data creates vulnerability
+
+**What research CLEARLY CONTRADICTS:**
+1. ❌ **Abandoning performance management in crisis** - evidence shows it's needed MORE during disruption, not less
+2. ❌ **Relying on monitoring technology** - creates employee resistance, contradicts trust-building evidence
+3. ❌ **One-size-fits-all annual reviews** - infrequent, comprehensive reviews less effective than frequent, simple check-ins
+4. ❌ **Assuming virtual communication is inherently inferior** - when structured properly, as effective as face-to-face
+5. ❌ **Blaming individual managers** - problem is systemic lack of standards, not individual incompetence
+
+**What research is UNCLEAR/SILENT on:**
+- Optimal implementation timeline (how long to train? how fast to roll out?)
+- Best training modality (workshop vs. coaching vs. e-learning?)
+- Specific costs and ROI
+- Whether to start simple and add complexity, or implement comprehensive system at once
+- How to handle resistant managers or employees
+- Which managers need most support vs. least support
+
+### Areas Requiring Other Evidence Types
+
+**Scientific evidence is insufficient for these critical decisions - need other evidence:**
+
+1. **Budget and resource allocation** (Need: Organizational/Financial Evidence)
+   - Science shows standardization works but doesn't specify costs
+   - Need your organization's budget data, HR capacity, training costs to determine feasibility
+   - Requires financial analysis of training investment vs. expected productivity gains
+
+2. **Implementation timeline and phasing** (Need: Practitioner/Experiential Evidence)
+   - Science doesn't specify optimal rollout speed or sequence
+   - Need input from your HR professionals on realistic timelines
+   - Requires assessment of competing organizational priorities and change capacity
+
+3. **Manager selection for pilot** (Need: Organizational Evidence)
+   - Science doesn't identify which managers should pilot the intervention
+   - Need your organization's performance data on current managers
+   - Requires assessment of manager readiness, openness, and influence
+
+4. **Tool customization for your context** (Need: Stakeholder Evidence)
+   - Science provides general frameworks (PPS, 5 competencies) but not specifics
+   - Need employee and manager input on preferred check-in formats, tools, frequencies
+   - Requires understanding your organization's existing systems and preferences
+
+5. **Success metric baselines** (Need: Organizational Evidence)
+   - Science validates that 20-25% improvements are realistic but doesn't know your starting point
+   - Need current data on employee clarity, feedback consistency, manager confidence
+   - Requires employee surveys or performance management audit
+
+6. **Cultural fit and language** (Need: Stakeholder/Experiential Evidence)
+   - Science provides concepts but not organization-specific terminology
+   - Need input on what language resonates in your culture (e.g., "performance management" vs. "performance development")
+   - Requires understanding your organization's values and communication norms
+
+7. **Technology platform selection** (Need: Organizational Evidence)
+   - Science mentions digital tools but doesn't compare specific platforms
+   - Need assessment of your current technology (Teams? Zoom? Slack?) and capability
+   - Requires IT infrastructure evaluation and user experience considerations
+
+8. **Risk mitigation strategies** (Need: Experiential Evidence)
+   - Science shows what works but not what to do when implementation fails
+   - Need contingency planning based on HR professionals' experience with change initiatives
+   - Requires identifying potential obstacles specific to your organization
+
+**Integration approach:**
+- Use scientific evidence to define WHAT to do (standardize, train 5 competencies, increase frequency)
+- Use organizational evidence to establish current state and set realistic targets
+- Use stakeholder evidence to refine HOW to do it (specific tools, language, formats)
+- Use experiential evidence to plan implementation logistics (timeline, pilot selection, risk mitigation)
+- Combine all four evidence types in final decision
+
+---
+INSTRUCTIONS:
+1. Be honest about study limitations - don't oversell weak evidence
+2. Consider both internal validity (study quality) and external validity (generalizability)
+3. Look for patterns across studies, not just individual study quality
+4. Consider what evidence is missing, not just what's available
+5. Connect quality assessment back to your specific decision-making needs

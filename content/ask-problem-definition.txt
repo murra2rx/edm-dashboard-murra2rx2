@@ -1,144 +1,108 @@
-# Problem Definition
 
-## Current State Assessment
+# Problem Definition Framework
+Managers in remote and hybrid teams provide inconsistent performance guidance, negatively affecting employee 
+clarity and performance.
 
-### Present Situation
-Level of Concern: High
-Status: Requires Immediate Action
+## X → Y Framework
+### Current State (X - What's happening now that's problematic?)
+Managers in remote and hybrid teams provide inconsistent performance feedback resulting in:
+- unclear expectations about job responsibilities
+- uneven feedback quality across managers and teams 
+- confusion among employees about how their performance is evaluated 
+- decreased motivation and engagement due to lack of guidance 
+- performance gaps that affect individual and team productivity 
 
-Current Challenges:
-Remote employees are experiencing significant challenges in their work environment. 
-Stress levels have increased markedly across all departments, with many showing signs 
-of approaching burnout. The traditional boundaries between work and personal life have 
-become increasingly blurred, leading to a notable decline in overall employee wellbeing.
+### Desired State (Y - What outcome do we want to achieve?)
+An organization with a clear, consistent performance management system where:
+- remote and hybrid employees receive regular, high-quality, structured feedback
+- expectations and evaluation criteria are transparent and easy to understand
+- managers use standardized tools and practices to assess performance
+- employees feel supported, motivated, and confident in meeting goals
+- team and organizational performance improves through clarity and consistency
 
-Target State:
-The goal is to establish an environment where remote workers can thrive professionally 
-while maintaining healthy personal lives. This requires clear work-life boundaries 
-that support a balanced lifestyle. This includes implementing systems for stress 
-management and ensuring workloads remain at sustainable levels.
 
-## PICOC Analysis Framework
+## PICOC Framework
+### Population (P - Who is affected by this problem?)
+- Remote and hybrid employees who rely on clear performance expectations
+- Managers who are responsible for giving feedback and evaluating performance
+- HR staff who monitor performance data and ensure fairness
+- Leadership who depend on accurate performance information for decision-making
 
-### Population Focus
-The analysis encompasses the entire remote workforce within organizations. This 
-includes fully remote employees who work exclusively from home, hybrid team members 
-who split their time between office and remote locations, and traditional office 
-staff who have transitioned to work-from-home arrangements.
 
-### Intervention Strategy
-The development of a comprehensive Structured Support Program addresses these challenges. 
-This initiative establishes clear guidelines for maintaining work-life boundaries and 
-provides extensive training sessions on balance maintenance. Management teams receive 
-specialized coaching to better support remote staff, and new coordination tools 
-enhance team efficiency.
 
-### Comparative Analysis
-The current environment lacks formal structure and support systems for remote work. 
-Employees operate with minimal guidance on boundary setting, and support mechanisms 
-are largely informal and inconsistent. This creates a stark contrast with the 
-proposed structured approach.
+### Intervention (I - What solution/action are we considering?)
+Performance management training and standardization, including:
+- training managers to give clear, consistent, structured feedback
+- standardized performance criteria, tools, and evaluation forms 
+- scheduled performance check-ins instead of irregular or annual-only reviews
+- clear communication of expectations for remote and hybrid teams 
 
-### Outcome Measurements
-Success metrics focus on three key areas:
 
-Employee Health Indicators:
-The program measures improvements in stress management capabilities, assesses overall mental 
-wellbeing through regular evaluations, and tracks job satisfaction levels through 
-comprehensive surveys.
 
-Work Performance Metrics:
-Assessment includes daily productivity measurements, task completion rates, 
-and quality metrics for work output. These indicators help gauge the effectiveness 
-of interventions.
+### Comparison (C - What alternatives exist?)
+- leave performance evaluations fully up to each manager's individual style
+- use automated software without proper training
+- rely solely on annual performance reviews instead of ongoing feedback
 
-Organizational Impact:
-The monitoring includes staff retention rates, attendance patterns, and team 
-cohesion through regular assessments. These measures indicate the broader 
-organizational effects of the initiatives.
 
-### Implementation Context
-This framework is designed specifically for modern workplace environments. It applies 
-to remote team settings, hybrid workplace arrangements, and virtual office environments. 
-The solutions are adaptable to various remote working configurations.
 
-## Core Problem Analysis
+### Outcomes (O - What will success look like?)
+- 20% increase in employee clarity about performance expectations
+- 25% improvement in satisfaction with feedback quality
+- more consistent evaluation scores across teams (reduced variation)
+- increased employee motivation and engagement
+- improved productivity and goal achievement for remote/hybrid teams
 
-### Central Challenge
-The fundamental issue stems from the erosion of traditional work-life boundaries in 
-remote work environments. This shift has created substantial challenges for both 
-employee wellbeing and overall performance metrics.
 
-### Impact Assessment
 
-Individual Level Effects:
-Remote work conditions have led to escalating stress levels among employees. Many are 
-showing clear symptoms of burnout and reporting decreased job satisfaction. The conflict 
-between work and personal life has become a significant source of strain.
+### Context (C - Where/when does this apply?)
+- this applies to remote and hybrid teams across the organization during the current performance cycle (6-12 months)
+- it is relevant in distributed work environments where communication and evaluation practices vary widely across managers
 
-Organizational Implications:
-The business impact is evident in declining productivity metrics and increasing employee 
-turnover rates. Team cohesion has suffered, with many groups reporting feelings of 
-disconnection and reduced collaboration effectiveness.
+## Clear Problem Statement
+Managers in remote and hybrid teams provide inconsistent performance guidance, negatively affecting employee 
+clarity and performance.
 
-### Stakeholder Impact Analysis
+## Why This Problem Matters
+### Impact on Organization
+- Reduced productivity due to unclear performance expectations
+- Lower employee engagement and motivation
+- Inaccurate performance data for decision-making
+- Difficulty identifying skill gaps and development needs
+- Higher turnover risk among frustrated or unsupported employees
 
-Employee Perspective:
-Our workforce faces multiple challenges including increasing mental health pressure and 
-emerging physical health risks from prolonged remote work. Many report growing tension 
-in family relationships and mounting concerns about career development opportunities.
 
-Business Perspective:
-The organization is experiencing measurable declines in operational efficiency and 
-work quality. These issues are leading to rising costs associated with turnover, 
-reduced productivity, and the need for additional support systems.
-   • Team issues
+### Stakeholder Impact
+- Employees: unclear expectations, inconsistent evaluations, decreased growth opportunities
+- Managers: increased stress due to unclear processes and inconsistent tools
+- HR: difficulty ensuring fairness and tracking performance trends
+- Leadership: limited visibility into true performance and organizational capability
 
-3. Customers Notice:
-   • Service delays
-   • Quality variation
-   • Response issues
+### Strategic Alignment
+This problem directly impacts organizational goals related to:
+- Employee development and engagement
+- Leadership effectiveness
+- Talent retention
+- Organizational performance and productivity
+- Building a strong, consistent remote work culture
 
-## STRATEGIC ALIGNMENT
----
 
-### 🎯 Business Benefits
-Good boundaries drive:
-• Higher productivity
-• Better retention
-• Stronger teams
-• Positive culture
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+- What evidence shows inconsistent feedback for remote workers?
+- How common is unclear performance guidance across teams?
+- What root causes lead to inconsistent performance management (e.g., training gaps, unclear standards, limited tools)?
 
-## RESEARCH AGENDA
----
 
-### 🔍 Problem Research
+### For the Solution (Step 4)
+- What evidence shows that performance management training improves clarity and fairness?
+- Have similar organizations seen benefits from standardized evaluation systems?
+- What risks, resource needs, or barriers could impact implementation?
 
-Understanding Scope:
-• How widespread?
-• Who's most affected?
-• Main causes?
-
-Measuring Impact:
-• Business costs?
-• Staff effects?
-• Team results?
-
-### 💡 Solution Research
-
-Testing Ideas:
-• What solutions work?
-• Best approaches?
-• Success factors?
-
-Planning Action:
-• Resource needs?
-• Timeline plan?
-• Success metrics?
 
 ---
-Next Steps:
-1. Gather data
-2. Analyze findings
-3. Plan solution
-4. Track results
+INSTRUCTIONS: 
+1. Replace all bracketed placeholders with your specific content
+2. Use GitHub Copilot to help with writing and organization
+3. Reference Module 2 content for framework guidance
+4. Save frequently and commit to GitHub

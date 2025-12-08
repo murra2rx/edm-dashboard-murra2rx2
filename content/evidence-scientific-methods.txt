@@ -1,108 +1,249 @@
-## Search Strategy Summary
+# Scientific Evidence: Methods & Acquisition Strategy
 
-**Management Problem:** Remote workers struggle with work life balance 
+## Research Question
+Does inconsistent manager performance guidance lead to 
+low feedback frequency and employee clarity deficits 
+in remote/hybrid work?
 
-**Research Question:** Does reducing blurred work-life boundaries lead to improved work-life balance and lower burnout?
+## X→M→Y Hypothesis Framework
 
-**X Variable (Intervention):** boundary setting interventions 
-**Y Variable (Outcome):** Improved work-life balance and lower burnout 
+**X (Independent Variable):** 
+Inconsistent manager performance guidance / 
+lack of standardization
 
-### X Variable Terms Tested
+**M (Mediator):** 
+Low feedback frequency 
+(1.8 vs 4-6 meetings/month best practice)
 
-**boundary management:**
-- Query: (TI(boundary management) OR AB(boundary management))
-- Total search results: 127
-- Sample size reviewed: 10
-- Relevant in sample: 2
-- Relevance rate: 20%
-- Estimated relevant results: 25
+**Y (Dependent Variable):** 
+Employee clarity deficits 
+(3.4 vs 4.2 benchmark) / performance
 
-**work-life balance :**
-- Query: (TI(work-life balance ) OR AB(work-life balance ))
-- Total search results: 9640
-- Sample size reviewed: 17
-- Relevant in sample: 3
-- Relevance rate: 18%
-- Estimated relevant results: 1701
+**Date of Search:** November 2025
 
-**blurred boundaries remote work:**
-- Query: (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work))
-- Total search results: 18
-- Sample size reviewed: 10
-- Relevant in sample: 5
-- Relevance rate: 50%
-- Estimated relevant results: 9
+---
 
-### Y Variable Terms Tested
+## SEARCH STRATEGY
 
-**reduced burnout :**
-- Query: (TI(reduced burnout ) OR AB(reduced burnout ))
-- Total search results: 556
-- Sample size reviewed: 10
-- Relevant in sample: 1
-- Relevance rate: 10%
-- Estimated relevant results: 56
+### Databases Searched
+- Google Scholar - Multidisciplinary academic search
+- Business Source Premier (EBSCO) - Business research
+- PsycINFO - Psychology/organizational behavior
 
-**good work-life balance:**
-- Query: (TI(good work-life balance) OR AB(good work-life balance))
-- Total search results: 459
-- Sample size reviewed: 10
-- Relevant in sample: 2
-- Relevance rate: 20%
-- Estimated relevant results: 92
+### Boolean Search Queries
 
-**remote work boundaries:**
-- Query: (TI(remote work boundaries) OR AB(remote work boundaries))
-- Total search results: 212
-- Sample size reviewed: 10
-- Relevant in sample: 5
-- Relevance rate: 50%
-- Estimated relevant results: 106
+**Query 1 (X→Y Direct Effect):**
+```
+("performance management" OR "manager guidance" OR 
+ "leadership consistency") AND 
+("role clarity" OR "employee clarity" OR "performance") AND 
+("remote work" OR "hybrid work" OR "telework")
+```
 
-### Final Recommended Queries
+**Query 2 (X→M Feedback Frequency):**
+```
+("performance management" OR "manager training" OR 
+ "standardized feedback") AND 
+("feedback frequency" OR "one-on-one" OR "check-in") AND 
+("remote" OR "hybrid" OR "virtual")
+```
 
-**Best X Query:**
-`((TI(boundary management) OR AB(boundary management)) OR (TI(work-life balance ) OR AB(work-life balance )) OR (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work)))`
-- Expected results: 16442
+**Query 3 (Meta-analyses/Reviews):**
+```
+("systematic review" OR "meta-analysis") AND 
+("performance management" OR "feedback" OR "leadership") AND 
+("remote work" OR "telework")
+```
 
-**Best Y Query:**
-`((TI(reduced burnout ) OR AB(reduced burnout )) OR (TI(good work-life balance) OR AB(good work-life balance)) OR (TI(remote work boundaries) OR AB(remote work boundaries)))`
-- Expected results: 1227
+### Search Filters Applied
+- Date Range: 2019-2025 (last 6 years, pandemic-relevant)
+- Language: English only
+- Study Types: Empirical quantitative, systematic reviews, 
+  conceptual frameworks with data
+- Context: Remote/hybrid/telework (exclude office-only)
 
-**Combined X AND Y:**
-`((TI(boundary management) OR AB(boundary management)) OR (TI(work-life balance ) OR AB(work-life balance )) OR (TI(blurred boundaries remote work) OR AB(blurred boundaries remote work))) AND ((TI(reduced burnout ) OR AB(reduced burnout )) OR (TI(good work-life balance) OR AB(good work-life balance)) OR (TI(remote work boundaries) OR AB(remote work boundaries)))`
-- Expected results: 570
 
-### Database Setup & Filters
-- Access EBSCO: https://guides.lib.jmu.edu/psychandbehavior
-- IMPORTANT: Click "Searching: psychology and behavioral sciences" and select Business Source Complete
-- Database: Business Source Complete (EBSCO)
+## SELECTION CRITERIA
 
-### Database Filters (use EBSCO interface controls):
-- Language: English
-- Peer Reviewed: Yes
-- Date Range: 2019-2025 (adjust as needed)
+### Inclusion Criteria
+✓ Peer-reviewed empirical studies
+✓ Published in academic journals
+✓ Contains QUANTITATIVE effect sizes 
+  (r, β, p-values, etc.)
+✓ Examines remote/hybrid/telework contexts
+✓ Focuses on X→M→Y hypothesis components
+✓ English language
+✓ Full text accessible
 
-### Methods Search Filters (filter by research methods):
-**Filter Analysis Completed for:** Combined X AND Y
-**Base Query Results:** 570 total hits
+### Exclusion Criteria
+✗ Office-only studies (pre-2019 context mismatch)
+✗ Qualitative-only without quantitative measures
+✗ Studies without reported effect sizes
+✗ Conference abstracts, dissertations without 
+  peer review
+✗ Non-empirical opinion pieces
+✗ News articles, blog posts
 
-**Methods Filter Breakdown:**
-- **Meta-Analyses & Systematic Reviews:** 5 results (0.9%)
-  - Filter: TI(meta-analy*) OR AB(meta-analy*) OR TI("systematic review") OR AB("systematic review")
-- **Controlled & Longitudinal Studies:** 16 results (2.8%)
-  - Filter: TI(experiment* OR controlled OR longitudinal OR randomized OR quasi) OR AB(experiment* OR "controlled stud*" OR "controlled trial" OR "control group" OR "control variable" OR "comparison group" OR "comparative stud*" OR quasi OR longitudinal OR randomized OR randomly OR laboratory OR "before and after stud*" OR "pretest post*" OR "time series" OR "case control" OR "case cohort" OR "cohort stud*" OR "prospective stud*")
-- **General Studies:** 170 results (29.8%)
-  - Filter: AB(study OR studies)
+---
 
-**Quality Hierarchy Recommendation:**
-1. **Focus first on Meta-analyses & Systematic Reviews** (highest quality)
-2. **Then examine Controlled & Longitudinal Studies** (high quality)
-3. **Finally review General Studies** (evaluate quality individually)
+## CONFIRMED STUDIES (n = 3)
 
-### Next Steps
-1. Use final queries to identify 5 studies or effect sizes
-2. Include meta-analyses where available
-3. Apply additional filters as needed
-4. Document findings in evidence-scientific-sources.txt
+### Study 1: Management support and employee performance 
+in digital workplace
+(Grzesiak & Ulrych, 2025)
+
+- **Journal:** Central European Management Journal
+- **DOI:** 10.1108/CEMJ-06-2023-0238
+- **Design:** Cross-sectional quantitative study
+- **Sample:** n = 1,000 remote/hybrid workers
+- **Effect Sizes (Pearson Correlations, p < .01):**
+  * Management Support ↔ Employee Performance: 
+    r = .649**
+  * Digital Workplace ↔ Employee Performance: 
+    r = .657**
+  * Management Support ↔ Digital Workplace: 
+    r = .648**
+- **Path Coefficients (Standardized):**
+  * MS → DW: β = 0.762, p < .001
+  * DW → EP: β = 0.575, p < .001
+  * MS → EP (direct): β = 0.275, p < .001
+ 
+- **Key Finding:** Management support practices 
+  (feedback, goal-setting, coaching) significantly 
+  predict employee performance in remote/hybrid work, 
+  both directly (r = .649) and indirectly through 
+  digital workplace quality (partial mediation). 
+
+- **Relevance:** HIGH - Large sample establishes 
+  X→M→Y relationship (management support → digital 
+  workplace effectiveness → employee performance). 
+  Multiple correlation coefficients all in 
+  moderate-to-strong range (r = .64-.66).
+
+### Study 2: Performance feedback, goal clarity, and 
+public employees' performance
+(Park & Choi, 2020)
+
+- **Journal:** Sustainability (MDPI)
+- **DOI:** 10.3390/su12073011
+- **Design:** Cross-sectional structural equation 
+  modeling study
+- **Sample:** n = 2,630 
+- **Effect Sizes
+  * Performance Feedback ↔ Performance Goal Clarity: 
+    r = .165, p < .001
+  * Performance Goal Clarity ↔ Individual Performance: 
+    r = .136, p < .001
+  * Performance Feedback ↔ Individual Performance: 
+    r = .037, p < .001 (direct effect)
+- **Path Coefficients (Standardized SEM):**
+  * Feedback → Goal Clarity: β = 0.165, p < .001
+  * Goal Clarity → Performance: β = 0.136, p < .001
+  * Indirect effect (mediation): β = 0.022, p < .001
+
+- **Key Finding:** Performance feedback significantly 
+  improves individual performance through the 
+  mediating role of performance goal clarity. 
+  Employees with clearer understanding of performance 
+  goals achieved higher performance ratings. 
+  Autonomy positively moderated the goal 
+  clarity→performance relationship.
+
+- **Relevance:** HIGH - Demonstrates X→M→Y mediation 
+  (performance feedback → goal clarity → employee 
+  performance) in public sector context. Large 
+  sample (n=2,630) with objective performance 
+  ratings. Directly addresses role of feedback 
+  frequency and goal clarity as mediator. 
+
+### Study 3: What makes telework work? Evidence of 
+success factors across two decades of empirical research
+(Gohoungodji et al., 2023)
+
+- **Journal:** International Journal of Human Resource 
+  Management
+- **DOI:** 10.1080/09585192.2022.2112259
+- **Design:** Systematic review 
+- **Sample:** 83 empirical articles 
+
+- **Key Findings:** 
+  * Identified 7 factors with dominant overall 
+    positive effects on telework success:
+    1. Media richness (technology quality)
+    2. Experience (teleworker familiarity)
+    3. Communication (frequency and quality)
+    4. Work-family facilitation
+    5. **Supervisor support** (including feedback)
+    6. Top management support
+    7. **Trust** (between employee and supervisor)
+  * Success factors organized into 5 categories: 
+    technological materials, non-technological 
+    materials, teleworkers, work environment, 
+    family environment
+  * Strong empirical consensus on importance of 
+    supervisor support, communication, and trust 
+    for telework performance outcomes
+  * Conceptual framework integrating 
+    person-environment interaction theory
+
+- **Relevance:** HIGH - Comprehensive systematic 
+  review establishing evidence base for supervisor 
+  support, communication frequency, and trust as 
+  critical success factors in remote/telework 
+  contexts. Directly supports X→M→Y framework where 
+  inconsistent manager guidance (low supervisor 
+  support/communication) negatively impacts 
+  employee clarity and performance. 
+
+---
+
+## EVIDENCE GAPS IDENTIFIED
+
+**No studies directly measure feedback frequency as mediator (M variable in X→M→Y model):**
+- Studies 1-2 measure direct X→Y effects (manager support/feedback → employee performance)
+- Study 2 measures goal clarity as mediator, but not feedback frequency itself
+- Study 3 (systematic review) identifies communication frequency as success factor, but doesn't test mediation
+
+**Limited studies testing full X→M→Y mediation pathway:**
+- Study 1: Partial mediation through digital workplace (not feedback frequency)
+- Study 2: Mediation through goal clarity (conceptually related but not identical to feedback frequency)
+- Need to triangulate with practitioner evidence (manager interviews) for feedback frequency mechanisms
+
+**Context specificity gaps:**
+- Study 1: Digital workplace context (technology-mediated)
+- Study 2: Public sector only (may differ from private sector)
+- Study 3: Broad telework review (not specific to performance management practices)
+
+---
+
+## SEARCH STRATEGY MODIFICATIONS
+
+**Added keywords to filter for quantitative studies:**
+- Added "correlation", "regression", "effect size", "quantitative" to queries  
+- Required reported effect sizes (r, β, or other coefficients)
+
+**Context filters refined:**
+- Required remote/hybrid/telework contexts (excluded office-only studies)
+- Date range 2019-2025 prioritized for pandemic-relevant contexts
+- Excluded pre-pandemic studies unless highly relevant to remote work
+
+
+## OVERALL EVIDENCE QUALITY
+
+**Quantitative evidence strength:**
+- 2 large-sample quantitative studies with effect sizes (r = .04 to .66 range)
+- 1 comprehensive systematic review synthesizing 83 empirical studies
+- Mix of recent research (2020, 2023, 2025) and pandemic-era data
+
+**Convergent evidence patterns:**
+- All studies show manager support/feedback associated with performance improvements
+- Consistent evidence for supervisor support and communication as critical factors
+- Effect sizes range from small (r = .04) to strong (r = .66)
+
+**Study design diversity:**
+- Cross-sectional quantitative (Studies 1-2)
+- Systematic review with vote-counting analysis (Study 3)
+- Both direct effects and mediation pathways tested
+- Multiple contexts: digital workplace, public sector, global telework
+
 

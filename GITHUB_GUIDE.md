@@ -31,65 +31,41 @@
 7. **Click "Create repository"**
 
 ### Step 3: Enable GitHub Pages (Make Your Dashboard Live Online!)
-1. **In your repository,** click "Settings" tab (top menu bar)
-2. **Scroll down to "Pages"** (in left sidebar under "Code and automation")
+1. **In your new repository,** click "Settings" (top menu)
+2. **Scroll down to "Pages"** (left sidebar)
 3. **Under "Source," select "Deploy from a branch"**
-4. **Branch dropdown: select "main"** (should be the only option)
-5. **Folder: leave as "/ (root)"**
-6. **Click "Save"**
-7. **SUCCESS!** You'll see "Your site is ready to be published at [URL]"
-8. **Wait 2-3 minutes** for deployment to complete
-9. **Visit your live dashboard** at: `https://[your-username].github.io/[repository-name]`
-10. **Bookmark this URL** - you'll use it all semester!
-
-**🔧 Troubleshooting Pages Setup:**
-- If "Pages" section is missing, make sure repository is Public
-- If deployment fails, check that `index.html` file exists in your repository
-- If dashboard looks broken, wait 5 minutes and refresh (CSS needs time to load)
+4. **Choose "main" branch**
+5. **Click "Save"**
+6. **Wait 2-3 minutes** for deployment
+7. **Your dashboard URL will appear!** (Save this link!)
 
 ---
 
 ## 📁 Adding Your Dashboard Files
 
 ### Method 1: Upload Through Web Browser (Easiest for Beginners)
-1. **In your empty repository,** look for "Quick setup" section with "uploading an existing file" link
-2. **Click "uploading an existing file"**
-3. **Select ALL your project files:**
-   - Click "choose your files"
-   - Navigate to your project folder
-   - Select ALL files (Ctrl+A or Cmd+A) including:
-     - `index.html` (your dashboard file)
-     - `content/` folder with all your .txt files
-     - `README.md`, `PROJECT_TRACKER.md`, etc.
-     - All other template files from your download
-   - Click "Open"
-4. **Verify all files are listed** for upload (you should see 25+ files including the content folder files)
-5. **Scroll down** and add commit message: "Initial dashboard setup"
-6. **Click "Commit changes"**
-7. **Wait for upload to complete** - all your files should now be visible in your repository!
+1. **In your empty repository,** click "uploading an existing file" (appears in the setup area)
+2. **Drag your entire project folder** OR select all files including:
+   - `index.html` (your dashboard file)
+   - `content/` folder with all your .txt files
+   - `README.md`, `PROJECT_TRACKER.md`, etc.
+   - All other template files from your download
+3. **Wait for upload to complete** - you should see all files listed
+4. **Scroll down** and add commit message: "Initial dashboard setup"
+5. **Click "Commit changes"**
+6. **All your files are now on GitHub!**
 
-**Alternative if above doesn't work:**
-- Click "Add file" → "Upload files"
-- Drag individual files or select multiple files
-- Include all the same files listed above
-- Same commit message and process
-
-### Method 2: Using VS Code (For Advanced Users)
-**This method is more complex - use Method 1 unless you're comfortable with Git:**
-
-1. **Install Git** on your computer (if not already installed)
-2. **In VS Code,** open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-3. **Type "Git: Clone"** and select it
-4. **Paste your repository URL** (from GitHub)
-5. **Choose a local folder** to store your project
-6. **Copy your template files** into this cloned folder
-7. **In VS Code Source Control panel:**
-   - Stage all changes (+ icon next to files)
-   - Add commit message: "Initial dashboard setup"
-   - Click "Commit" 
-   - Click "Sync Changes" to upload to GitHub
-
-**Note:** This method requires Git knowledge. Beginners should use Method 1.
+### Method 2: Using VS Code (Recommended Once You're Comfortable)
+1. **In VS Code,** open the Source Control panel (left sidebar)
+2. **Click "Clone Repository"** 
+3. **Paste your repository URL** (from GitHub)
+4. **Choose a local folder** to store your project
+5. **Copy your template files** into this folder
+6. **In VS Code Source Control:**
+   - Stage changes (+ icon)
+   - Add commit message
+   - Click "Commit"
+   - Click "Sync Changes"
 
 ---
 
@@ -185,13 +161,6 @@ your-repository/
 ---
 
 ## 🆘 Common GitHub Problems & Solutions
-
-### 🚫 Problem: File upload not working or files missing
-**Solution:**
-1. **If "uploading an existing file" link is missing:** Click "Add file" → "Upload files" instead
-2. **If folder upload fails:** Select individual files rather than the whole folder
-3. **If some files didn't upload:** Check the file list before committing - re-upload missing files
-4. **If content folder is missing:** Make sure to select files INSIDE the content folder, not just the folder itself
 
 ### 🚫 Problem: "Repository not found" or permission errors
 **Solution:**

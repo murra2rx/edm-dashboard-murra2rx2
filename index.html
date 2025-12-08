@@ -4,10 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My EBM Dashboard | MGT357 - Fall 2025</title>
-    <!-- Add marked.js for Markdown parsing -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <!-- Add content loader -->
-    <script src="content-loader.js"></script>
     <style>
         /* === CSS CUSTOM PROPERTIES === */
         :root {
@@ -178,7 +174,13 @@
         }
 
         .edit-notice {
-            display: none;  /* Hide the edit notice boxes */
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-size: 0.8em;
         }
 
         .evidence-type {
@@ -345,9 +347,9 @@
             
             <div class="student-info">
                 <div><strong>Student:</strong> Ruby Murray</div>
-                <div><strong>Problem Focus:</strong> Remote workers struggle with work life balance</div>
-                <div><strong>Repository:</strong> <a href=" https://murra2rx.github.io/edm-dashboard-murra2rx/" style="color: #74b9ff;">https://murra2rx.github.io/edm-dashboard-murra2rx/</a></div>
-                <div><strong>Last Updated:</strong> 10/5/25</div>
+                <div><strong>Problem Focus:</strong> Improving Consistent Performance Feedback in Remote and Hybrid Teams</div>
+                <div><strong>Repository:</strong> <a href="#" style="color: #74b9ff;">[Your GitHub Link]</a></div>
+                <div><strong>Last Updated:</strong> November 21, 2025 </div>
             </div>
         </div>
 
@@ -377,10 +379,6 @@
                     <h2>🎯 Problem & Solution Framework</h2>
                     <p><strong>Following Module 2 Flowchart:</strong> Define the problem AND identify the preferred solution before collecting evidence.</p>
                     
-                    <!-- Overall Framework Section -->
-                    <div class="framework-section">
-                        <!-- Content sections will be loaded here -->
-                    </div>
                     <div class="milestone-tracker">
                         <h4>📋 Milestone 1 Checklist (Due: Week 3)</h4>
                         <ul class="checklist">
@@ -399,9 +397,10 @@
                     <div class="content-file-preview" onclick="openContentFile('ask-problem-definition.txt')">
                         <h4>📝 content/ask-problem-definition.txt</h4>
                         <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                        <div id="step1-problem-definition">
-                            <pre id="problem-definition-content">[Loading problem definition...]</pre>
-                        </div>
+                        <pre id="problem-definition-content">[This content will load from your .txt file]
+
+Use the X → Y Framework and PICOC Framework to define your management problem clearly.
+See the template file for detailed prompts and structure.</pre>
                     </div>
 
                     <div class="content-file-preview" onclick="openContentFile('ask-stakeholder-analysis.txt')">
@@ -416,9 +415,10 @@ Consider internal and external stakeholders, their interests, and influence leve
                     <div class="content-file-preview" onclick="openContentFile('ask-success-criteria.txt')">
                         <h4>📝 content/ask-success-criteria.txt</h4>
                         <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                        <div id="step1-success-criteria">
-                            <pre id="success-criteria-content">[Loading success criteria...]</pre>
-                        </div>
+                        <pre id="success-criteria-content">[This content will load from your .txt file]
+
+Define specific, measurable criteria for success.
+How will you know if your evidence-based solution worked?</pre>
                     </div>
 
                     <div class="flowchart-step">
@@ -467,7 +467,7 @@ Consider internal and external stakeholders, their interests, and influence leve
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-methods.txt')">
                             <h4>📝 content/evidence-scientific-methods.txt</h4>
                             <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="scientific-methods-content">[Loading scientific methods...]</pre>
+                            <pre>[Document your search strategy, databases used, keywords, and selection criteria]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-sources.txt')">
@@ -680,7 +680,8 @@ Weight the evidence and form recommendations.</pre>
             loadContentFiles();
             updateProgressIndicator(1);
         });
-    </script>
+    </script>src="assets/js/main.js"></script>
+    <script src="assets/js/main.js"></script>
     <script src="content-loader.js"></script>
 </body>
 </html>

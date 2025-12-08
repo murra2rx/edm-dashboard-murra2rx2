@@ -1,0 +1,125 @@
+# Scientific Evidence: Methods & Acquisition Strategy
+
+## Research Question
+Does inconsistent manager performance guidance lead to 
+low feedback frequency and employee clarity deficits 
+in remote/hybrid work?
+
+## X→M→Y Hypothesis Framework
+
+**X (Independent Variable):** 
+Inconsistent manager performance guidance / 
+lack of standardization
+
+**M (Mediator):** 
+Low feedback frequency 
+(1.8 vs 4-6 meetings/month best practice)
+
+**Y (Dependent Variable):** 
+Employee clarity deficits 
+(3.4 vs 4.2 benchmark) / performance
+
+**Date of Search:** November 2025
+
+---
+
+## SEARCH STRATEGY
+
+### Databases Searched
+- Google Scholar - Multidisciplinary academic search
+- Business Source Premier (EBSCO) - Business research
+- PsycINFO - Psychology/organizational behavior
+
+### Boolean Search Queries
+
+**Query 1 (X→Y Direct Effect):**
+```
+("performance management" OR "manager guidance" OR 
+ "leadership consistency") AND 
+("role clarity" OR "employee clarity" OR "performance") AND 
+("remote work" OR "hybrid work" OR "telework")
+```
+
+**Query 2 (X→M Feedback Frequency):**
+```
+("performance management" OR "manager training" OR 
+ "standardized feedback") AND 
+("feedback frequency" OR "one-on-one" OR "check-in") AND 
+("remote" OR "hybrid" OR "virtual")
+```
+
+**Query 3 (Meta-analyses/Reviews):**
+```
+("systematic review" OR "meta-analysis") AND 
+("performance management" OR "feedback" OR "leadership") AND 
+("remote work" OR "telework")
+```
+
+### Search Filters Applied
+- Date Range: 2019-2025 (last 6 years, pandemic-relevant)
+- Language: English only
+- Study Types: Empirical quantitative, systematic reviews, 
+  conceptual frameworks with data
+- Context: Remote/hybrid/telework (exclude office-only)
+
+
+## SELECTION CRITERIA
+
+### Inclusion Criteria
+✓ Peer-reviewed empirical studies
+✓ Published in academic journals
+✓ Contains QUANTITATIVE effect sizes 
+  (r, β, p-values, etc.)
+✓ Examines remote/hybrid/telework contexts
+✓ Focuses on X→M→Y hypothesis components
+✓ English language
+✓ Full text accessible
+
+### Exclusion Criteria
+✗ Office-only studies (pre-2019 context mismatch)
+✗ Qualitative-only without quantitative measures
+✗ Studies without reported effect sizes
+✗ Conference abstracts, dissertations without 
+  peer review
+✗ Non-empirical opinion pieces
+✗ News articles, blog posts
+
+---
+
+## CONFIRMED STUDIES (n = 3)
+
+### Study 1: Management support and employee performance 
+in digital workplace
+(Grzesiak & Ulrych, 2025)
+
+- **Journal:** Central European Management Journal
+- **DOI:** 10.1108/CEMJ-06-2023-0238
+- **Design:** Cross-sectional quantitative study
+- **Sample:** n = 1,000 remote/hybrid workers
+- **Effect Sizes (Pearson Correlations, p < .01):**
+  * Management Support ↔ Employee Performance: 
+    r = .649**
+  * Digital Workplace ↔ Employee Performance: 
+    r = .657**
+  * Management Support ↔ Digital Workplace: 
+    r = .648**
+- **Path Coefficients (Standardized):**
+  * MS → DW: β = 0.762, p < .001
+  * DW → EP: β = 0.575, p < .001
+  * MS → EP (direct): β = 0.275, p < .001
+ 
+- **Key Finding:** Management support practices 
+  (feedback, goal-setting, coaching) significantly 
+  predict employee performance in remote/hybrid work, 
+  both directly (r = .649) and indirectly through 
+  digital workplace quality (partial mediation). 
+
+- **Relevance:** HIGH - Large sample establishes 
+  X→M→Y relationship (management support → digital 
+  workplace effectiveness → employee performance). 
+  Multiple correlation coefficients all in 
+  moderate-to-strong range (r = .64-.66). 
+
+
+
+

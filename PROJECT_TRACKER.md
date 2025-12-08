@@ -2,10 +2,10 @@
 **MGT357 Evidence-Based Management Dashboard**  
 **Track your progress through evidence type milestones**
 
-**Student Name:** Ruby Murray 
+**Student Name:** [Your Name]  
 **Course:** MGT357 - Evidence-Based Management  
 **Semester:** Fall 2025  
-**Last Updated:** 9/16/25
+**Last Updated:** [Today's Date]
 
 ---
 

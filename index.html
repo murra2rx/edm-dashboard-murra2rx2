@@ -27,15 +27,18 @@
             background: var(--primary-gradient);
             min-height: 100vh;
             padding: 20px;
+            overflow-x: hidden;
         }
 
         .container {
             max-width: 1200px;
+            width: 100%;
             margin: 0 auto;
             background: white;
             border-radius: var(--border-radius);
             box-shadow: 0 20px 60px rgba(0,0,0,0.1);
             overflow: hidden;
+            box-sizing: border-box;
         }
 
         .header {
@@ -105,16 +108,32 @@
         .tab-content {
             position: relative;
             min-height: 500px;
+            max-height: 80vh;
+            overflow-y: auto;
+            overflow-x: hidden;
         }
 
         .tab-panel {
             display: none;
             padding: 40px;
             animation: fadeIn 0.3s ease-in;
+            max-width: 100%;
+            box-sizing: border-box;
         }
 
         .tab-panel.active {
             display: block;
+        }
+
+        .tab-panel h2, .tab-panel h3, .tab-panel h4, .tab-panel h5, .tab-panel h6 {
+            word-wrap: break-word;
+            max-width: 100%;
+        }
+
+        .tab-panel p, .tab-panel ul, .tab-panel ol {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
         }
 
         @keyframes fadeIn {
@@ -160,6 +179,8 @@
             font-size: 0.9em;
             cursor: pointer;
             transition: all 0.3s ease;
+            max-width: 100%;
+            overflow: hidden;
         }
 
         .content-file-preview:hover {
@@ -171,6 +192,29 @@
             color: #2c3e50;
             margin-bottom: 10px;
             font-family: 'Segoe UI', sans-serif;
+        }
+
+        .content-file-preview pre {
+            max-width: 100%;
+            overflow-x: auto;
+            overflow-y: auto;
+            max-height: 600px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            word-break: break-word;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 0.95em;
+            line-height: 1.6;
+            padding: 10px;
+            background: white;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+
+        .content-file-preview pre div {
+            max-width: 100%;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
 
         .edit-notice {
@@ -336,6 +380,94 @@
             content: "☐ ";
             color: #3498db;
             font-weight: bold;
+        }
+
+        /* === RESPONSIVE DESIGN === */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .header p {
+                font-size: 1em;
+            }
+
+            .student-info {
+                grid-template-columns: 1fr;
+                font-size: 0.85em;
+            }
+
+            .tab-button {
+                padding: 15px 10px;
+                font-size: 0.9em;
+            }
+
+            .tab-panel {
+                padding: 20px 15px;
+            }
+
+            .progress-step {
+                font-size: 0.75em;
+                padding: 10px 5px;
+                margin: 0 2px;
+            }
+
+            .content-file-preview pre {
+                font-size: 0.85em;
+                max-height: 400px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .tab-nav {
+                flex-wrap: wrap;
+            }
+
+            .tab-button {
+                flex: 1 1 50%;
+                min-width: 50%;
+            }
+
+            .progress-indicator {
+                flex-wrap: wrap;
+            }
+
+            .progress-step {
+                flex: 1 1 100%;
+                margin: 2px 0;
+            }
+
+            .progress-step::after {
+                display: none;
+            }
+        }
+
+        /* === SCROLLBAR STYLING === */
+        .tab-content::-webkit-scrollbar,
+        .content-file-preview pre::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        .tab-content::-webkit-scrollbar-track,
+        .content-file-preview pre::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 5px;
+        }
+
+        .tab-content::-webkit-scrollbar-thumb,
+        .content-file-preview pre::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 5px;
+        }
+
+        .tab-content::-webkit-scrollbar-thumb:hover,
+        .content-file-preview pre::-webkit-scrollbar-thumb:hover {
+            background: #555;
         }
     </style>
 </head>
